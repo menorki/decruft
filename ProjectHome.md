@@ -1,0 +1,1 @@
+This is a fork of python-readability. While python-readability depends on BeautifulSoup, decruft is built on lxml.
